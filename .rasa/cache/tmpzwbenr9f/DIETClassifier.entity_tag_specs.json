@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-pizza_size",
+      "2": "I-pizza_size",
+      "3": "L-pizza_size",
+      "4": "U-pizza_size",
+      "5": "B-pizza_type",
+      "6": "I-pizza_type",
+      "7": "L-pizza_type",
+      "8": "U-pizza_type",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-pizza_size": 1,
+      "I-pizza_size": 2,
+      "L-pizza_size": 3,
+      "U-pizza_size": 4,
+      "B-pizza_type": 5,
+      "I-pizza_type": 6,
+      "L-pizza_type": 7,
+      "U-pizza_type": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]
